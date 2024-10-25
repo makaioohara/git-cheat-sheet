@@ -17,18 +17,18 @@ We welcome contributions from everyone! Whether you’re fixing a typo, adding a
 
 
 ## Table of Contents
-* **[Setup](#setup)**
-* **[Create](#create)**
-* **[Local Changes](#local)**
-* **[Branch and Merge](#gitbm)**
-* **[Inspect and Compare](#gitinscom)**
-* **[Commit and Revert](#gitcomrev)**
-* **[Temporary Commits](#gittempcom)**
-* **[Update & Publish](#gitupdpub)**
-* **[Tracking path changes](#gittrackpathchang)**
-* **[Ignoring Patterns](#gitignpat)**
-* **[Tags](#gittags)**
-* **[Rewrite History](#gitrehis)**
+* [Setup](#setup)
+* [Create](#create)
+* [Local Changes](#local)
+* [Branch and Merge](#gitbm)
+* [Inspect and Compare](#gitinscom)
+* [Commit and Revert](#gitcomrev)
+* [Temporary Commits](#gittempcom)
+* [Update & Publish](#gitupdpub)
+* [Tracking path changes](#gittrackpathchang)
+* [Ignoring Patterns](#gitignpat)
+* [Tags](#gittags)
+* [Rewrite History](#gitrehis)
 
 
 
