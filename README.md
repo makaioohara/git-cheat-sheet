@@ -4,26 +4,31 @@
   <img src="https://github.com/makaioohara/git-cheat-sheet/blob/main/img/git-banner.png">
 </p>
 
-<p align="center">Welcome to the Git Cheat Sheet repository! This resource is designed to provide a quick reference guide for Git commands, making it easier for you to navigate version control. Whether you're a beginner or looking to refresh your knowledge, this cheat sheet covers essential operations in Git, from setup to advanced features./nThis cheat sheet serves as your go-to guide for common Git operations, enabling efficient and effective version control practices.</p>
+<p align="center">
+Welcome to the Git Cheat Sheet repository! This resource is designed to provide a quick reference guide for Git commands, making it easier for you to navigate version control. Whether you're a beginner or looking to refresh your knowledge, this cheat sheet covers essential operations in Git, from setup to advanced features.
+</p>
+<p align="center">
+This cheat sheet serves as your go-to guide for common Git operations, enabling efficient and effective version control practices.
+</p>
 
 <p align="center">
-Be free to contribute and update the grammar mistakes.
+We welcome contributions from everyone! Whether you’re fixing a typo, adding a new feature, or improving documentation, your help is greatly appreciated.
 </p>
 
 
 ## Table of Contents
-* [Setup](#setup)
-* [Create](#create)
-* [Local Changes](#local)
-* [Branch and Merge](#gitbm)
-* [Inspect and Compare](#gitinscom)
-* [Commit and Revert](#gitcomrev)
-* [Temporary Commits](#gittempcom)
-* [Update & Publish](#gitupdpub)
-* [Tracking path changes](#gittrackpathchang)
-* [Ignoring Patterns](#gitignpat)
-* [Tags](#gittags)
-* [Rewrite History](#gitrehis)
+* **[Setup](#setup)**
+* **[Create](#create)**
+* **[Local Changes](#local)**
+* **[Branch and Merge](#gitbm)**
+* **[Inspect and Compare](#gitinscom)**
+* **[Commit and Revert](#gitcomrev)**
+* **[Temporary Commits](#gittempcom)**
+* **[Update & Publish](#gitupdpub)**
+* **[Tracking path changes](#gittrackpathchang)**
+* **[Ignoring Patterns](#gitignpat)**
+* **[Tags](#gittags)**
+* **[Rewrite History](#gitrehis)**
 
 
 
