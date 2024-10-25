@@ -1,7 +1,7 @@
-<h1 align="center">Git Cheat Sheet</h1>
+<h1 align="center">Git Cheat Sheet For Learning</h1>
 
 <p align="center">
-  <img src="https://github.com/Sunil-Pradhan/git-cheat-sheet/blob/master/img/Git-Cheat-Sheet-Logo.png">
+  <img src="https://github.com/makaioohara/git-cheat-sheet/blob/main/img/git-banner.png">
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@ $ git config --global core.editor “code –wait”
 :bulb: **Remember**
 
 * **Ask for help** ```git <command> --help```
-* **master** is the default development branch
+* **main** is the default development branch
 * **origin** is the default upstream repository
 
 
@@ -606,7 +606,7 @@ $ git pull
 Get all changes from HEAD to local repository:
 
 ```
-$ git pull origin master
+$ git pull origin main
 ```
 
 Download changes and directly merge/integrate into HEAD:
@@ -629,10 +629,10 @@ $ git push remote [remote] [branch_name]
 
 OR
 
-Here remote server is origin and branch is master
+Here remote server is origin and branch is main
 
 ```
-$ git push -u origin master
+$ git push -u origin main
 ```
 
 *By using this command, next time when you publish your local changes to remote then use: ```$ git push ```*
