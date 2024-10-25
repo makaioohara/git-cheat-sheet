@@ -4,9 +4,7 @@
   <img src="https://github.com/makaioohara/git-cheat-sheet/blob/main/img/git-banner.png">
 </p>
 
-<p align="center">
-Git is the free and open source distributed version control system. This cheat sheet saves you from learning all the commands by heart and features the most important and commonly used Git commands for easy reference. 
-</p>
+<p align="center">Welcome to the Git Cheat Sheet repository! This resource is designed to provide a quick reference guide for Git commands, making it easier for you to navigate version control. Whether you're a beginner or looking to refresh your knowledge, this cheat sheet covers essential operations in Git, from setup to advanced features./nThis cheat sheet serves as your go-to guide for common Git operations, enabling efficient and effective version control practices.</p>
 
 <p align="center">
 Be free to contribute and update the grammar mistakes.
