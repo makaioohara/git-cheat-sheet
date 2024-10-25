@@ -86,13 +86,13 @@ $ git config --global merge.tool vscode
 Set a name that is identifiable for credit when review version history:
 
 ```
-$ git config --global user.name “Github-username”
+$ git config --global user.name "Github-username"
 ```
 
 Set an email address that will be associated with each history marker:
 
 ```
-$ git config --global user.email “Github-email-id”
+$ git config --global user.email "Github-email-id"
 ```
 
 Set automatic command line coloring for Git for easy reviewing:
@@ -104,11 +104,11 @@ $ git config --global color.ui auto
 Set global editor for commit (Visual Studio Code):
 
 ```
-$ git config --global core.editor “code –wait”
+$ git config --global core.editor "code –wait"
 ```
 <hr>
 
-:bulb: **Remember**
+**Remember**
 
 * **Ask for help** ```git <command> --help```
 * **main** is the default development branch
@@ -225,7 +225,7 @@ $ git diff [file_name]
 Commit with message:
 
 ```
-$ git commit -m “[descriptive message]”
+$ git commit -m "[descriptive message]"
 ```
 
 <hr>
@@ -727,7 +727,7 @@ $ git mv [old_file_name] [new_file_name]
 
 **Preventing unintentional staging or commiting of files:**
 
-Save a file with desired patterns as .gitignore with either direct string matches or wildcard globs:
+Create a .gitignore file with the desired patterns with either direct string matches or wildcard globs:
 
 ```
 logs/
