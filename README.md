@@ -17,6 +17,7 @@ We welcome contributions from everyone! Whether you’re fixing a typo, adding a
 
 
 ## Table of Contents
+
 * [Setup](#setup)
 * [Create](#create)
 * [Local Changes](#local)
